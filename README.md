@@ -4,6 +4,9 @@ This is my 2048 puzzle AI module written in python for an office fun event.
 
 The time limit of *every* move is 0.1 seconds.
 
+
+test
+
 Variants
 --------
 There are five variants:
